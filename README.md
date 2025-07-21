@@ -7,14 +7,14 @@
 ## 📚 About Me
 
 - 🎓 BTech 1st Year, Electronics & Communication Engineering  
-  Ajay Kumar Garg Engineering College
+  @Ajay Kumar Garg Engineering College
 - 🎯 GATE ECE Aspirant
-- 💡 Passionate about Embedded Systems and Android Development
+- 💡 Passionate about Embedded Systems and Android App Development
 - 🧑‍💻 Tech Stack:  
   `Kotlin` · `Java` · `C/C++` · `Jetpack Compose` · `XML` · `Room Database` · `Retrofit` · `Android Studio` · `DSA`
 - 🚀 Currently building: **Inventory App**  
   *A modern inventory management app using Jetpack Compose, Kotlin, and Room Database.*
-- and **And many more coming soon**
+- and **And many more coming very soon**
 
 ---
 
