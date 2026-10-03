@@ -27,7 +27,7 @@
 
 ## 📦 Featured Project (Muzix)
 
-### [Inventory App](https://github.com/MayankSingh755/Muzix)
+### [Muzix - A Modern Music Player](https://github.com/MayankSingh755/Muzix)
 > 🎵 Android music player built using Kotlin and Jetpack Compose.
 ▶️ Supports local music playback using Media3/ExoPlayer.
 📂 Allows users to browse, search, sort, and organize music.
