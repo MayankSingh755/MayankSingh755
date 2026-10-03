@@ -1,20 +1,17 @@
 # 👋 Hi, I'm Mayank Singh!
 
-**Student | Aspiring Embedded Systems Engineer | Android Developer**
+**Student | Aspiring Power Engineer | Android Developer**
 
 ---
 
 ## 📚 About Me
 
-- 🎓 BTech 1st Year, Electronics & Communication Engineering  
+- 🎓 BTech 2nd Year, Electrical & Electronics Engineering  
   @Ajay Kumar Garg Engineering College
-- 🎯 GATE ECE Aspirant
-- 💡 Passionate about Embedded Systems and Android App Development
+- 🎯 GATE EE Aspirant
+- 💡 Passionate about Power Engineering and Android App Development
 - 🧑‍💻 Tech Stack:  
   `Kotlin` · `Java` · `C/C++` · `Jetpack Compose` · `XML` · `Room Database` · `Retrofit` · `Android Studio` · `DSA`
-- 🚀 Currently building: **Inventory App**  
-  *A modern inventory management app using Jetpack Compose, Kotlin, and Room Database.*
-- and **And many more coming very soon**
 
 ---
 
@@ -23,14 +20,22 @@
 - Android Development (Jetpack Compose, Kotlin, Java, XML)
 - Room Database, Retrofit
 - C/C++
+- Arduino, ESP 32, Basic Electronics and Electrical
 - Data Structures & Algorithms
 
 ---
 
-## 📦 Featured Project
+## 📦 Featured Project (Muzix)
 
-### [Inventory App](https://github.com/MayankSingh755/Inventory-App)
-> An intuitive inventory management application built with Jetpack Compose, Kotlin, and Room Database.
+### [Inventory App](https://github.com/MayankSingh755/Muzix)
+> 🎵 Android music player built using Kotlin and Jetpack Compose.
+▶️ Supports local music playback using Media3/ExoPlayer.
+📂 Allows users to browse, search, sort, and organize music.
+🎧 Supports playlists with Room Database for local storage.
+🔔 Uses a Foreground Service and MediaSession for background playback.
+🎛️ Provides playback controls through notifications and lock-screen controls.
+🔀 Includes shuffle, repeat, next, previous, and seek controls.
+🎨 Features a modern and responsive Material 3 UI.
 
 ---
 
@@ -51,5 +56,5 @@
 
 ---
 
-> *“Striving to bridge the gap between hardware and software, one project at a time.”*
+> *“Striving to bridge the gap between hardware and software”*
 
